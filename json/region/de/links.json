@@ -21,6 +21,7 @@
 	"gw-a" : [5, 48],
 	"gw-gefahrgut" : [27],
 	"gw-höhenrettung" : [33],
+	"gw-mess" : [12],
 	"gw-messtechnik" : [12],
 	"gw-öl" : [10, 49],
 	"gw-san" : [60],
@@ -55,6 +56,5 @@
 	"kdow-orgl" : [56],
 	"ktw typ b" : [58],
 	"gw-wasserrettung" : [64],
-	"lkw 7 lkr 19 tm" : [65],
-	"gw-mess" : [12]
+	"lkw 7 lkr 19 tm" : [65]
 }
